@@ -17,4 +17,5 @@ To add an image
 
 ## Tables
  Column1 | Column2
+ -- | --
 
