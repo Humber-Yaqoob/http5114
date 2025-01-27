@@ -15,3 +15,6 @@ To add an image
 ![Github Logo](images/Github.png)
 
 
+## Tables
+ Column1 | Column2
+
